@@ -32,7 +32,7 @@ export default function ContactList({ setSelectedContactId }) {
                 </tr>
             </thead>
             <tbody>
-                <tr>
+                <tr className="table-header">
                     <td>Name</td>
                     <td>Email</td>
                     <td>Phone</td>
