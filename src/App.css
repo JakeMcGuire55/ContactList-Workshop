@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+button {
+  margin: 15px;
+}
+
+td {
+  padding: 15px;
+  border: 1px solid lightgray;
+}
+
+.table-header {
+  text-decoration: underline;
+  font-size: large;
+  background-color:#646cffaa;
+}
